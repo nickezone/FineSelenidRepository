@@ -1,0 +1,7 @@
+\.gradle
+\.idea
+\build
+*.log
+*.class
+!**/src/main/**/out/
+!**/src/test/**/out/
